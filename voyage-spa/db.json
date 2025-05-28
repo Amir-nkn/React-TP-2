@@ -1,0 +1,18 @@
+{
+  "forfaits": [
+    {
+      "id": "1",
+      "nom": "Séjour à Paris",
+      "description": "Visite des monuments historiques",
+      "prix": 1200,
+      "categorie": "Culture"
+    },
+    {
+      "id": "2",
+      "nom": "Plage au Mexique",
+      "description": "Soleil, sable et mer turquoise",
+      "prix": 1800,
+      "categorie": "Plage"
+    }
+  ]
+}
