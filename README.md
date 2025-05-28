@@ -101,9 +101,8 @@ json-server --watch db.json --port 5000
 
 ---
 
-## 💻 Lien GitHub
-
-👉 [Lien vers le dépôt GitHub](https://github.com/Amir-nkn/React-TP-2)
+📦 **Lien GitHub**  
+👉 [Voir le dépôt sur GitHub](https://github.com/Amir-nkn/React-TP-2)
 
 ---
 
